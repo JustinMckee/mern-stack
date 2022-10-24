@@ -1,3 +1,3 @@
 {
-  "mongoURI": "<REPLACE>"
+  "mongoURI": "mongodb+srv://mediumtheory:%40M3d1umTh3ory!@medium-theory.sd7vzos.mongodb.net/?retryWrites=true&w=majority"
 }
